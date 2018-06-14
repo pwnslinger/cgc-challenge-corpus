@@ -1,0 +1,2459 @@
+{
+    "CADET_00001": [
+        {
+            "CWE": "CWE-121", 
+            "desc": ""
+        }
+    ], 
+    "CADET_00003": [
+        {
+            "CWE": "CWE-121", 
+            "desc": ""
+        }
+    ], 
+    "CROMU_00001": [
+        {
+            "CWE": "CWE-190", 
+            "desc": "Integer overflow or wraparound"
+        }, 
+        {
+            "CWE": "CWE-131", 
+            "desc": "Incorrect calculation of buffer size"
+        }, 
+        {
+            "CWE": "CWE-120", 
+            "desc": "Buffer copy without checking size of input"
+        }, 
+        {
+            "CWE": "CWE-190", 
+            "desc": "but it results in CWE-131 and since the size of the write is not checked, the ultimate crash is due to CWE-120."
+        }
+    ], 
+    "CROMU_00002": [
+        {
+            "CWE": "CWE-787", 
+            "desc": "Out-of-bounds Write"
+        }
+    ], 
+    "CROMU_00003": [
+        {
+            "CWE": "CWE-787", 
+            "desc": "Out-of-bounds Write"
+        }
+    ], 
+    "CROMU_00004": [
+        {
+            "CWE": "CWE-120", 
+            "desc": "- Buffer Copy without Checking Size of Input"
+        }
+    ], 
+    "CROMU_00005": [
+        {
+            "CWE": "CWE-787", 
+            "desc": "Out of Bounds Write"
+        }
+    ], 
+    "CROMU_00006": [
+        {
+            "CWE": "CWE-120", 
+            "desc": "Stack-based Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-122", 
+            "desc": "Heap-based Buffer Overflow"
+        }
+    ], 
+    "CROMU_00007": [
+        {
+            "CWE": "CWE-118", 
+            "desc": "Improper Access of Indexable Resource"
+        }, 
+        {
+            "CWE": "CWE-121", 
+            "desc": "Stack-based Buffer Overflow"
+        }
+    ], 
+    "CROMU_00008": [
+        {
+            "CWE": "CWE-119", 
+            "desc": "Improper Restriction of Operations within the Bounds of a Memory Buffer"
+        }
+    ], 
+    "CROMU_00009": [
+        {
+            "CWE": "CWE-787", 
+            "desc": "Out-of-bounds Write"
+        }, 
+        {
+            "CWE": "CWE-476", 
+            "desc": "NULL Pointer Dereference"
+        }
+    ], 
+    "CROMU_00010": [
+        {
+            "CWE": "CWE-467", 
+            "desc": "## Challenges"
+        }
+    ], 
+    "CROMU_00011": [
+        {
+            "CWE": "CWE-120", 
+            "desc": "Buffer copy without checking size of input"
+        }, 
+        {
+            "CWE": "CWE-400", 
+            "desc": "Uncontrolled Resource Consumption"
+        }
+    ], 
+    "CROMU_00012": [
+        {
+            "CWE": "CWE-787", 
+            "desc": "NULL Pointer Dereference"
+        }
+    ], 
+    "CROMU_00014": [
+        {
+            "CWE": "CWE-122", 
+            "desc": "Heap Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-129", 
+            "desc": "Improper Validation of Array Index"
+        }
+    ], 
+    "CROMU_00015": [
+        {
+            "CWE": "CWE-120", 
+            "desc": "Buffer copy without checking size of input"
+        }, 
+        {
+            "CWE": "CWE-122", 
+            "desc": "Heap-based buffer overflow"
+        }, 
+        {
+            "CWE": "CWE-476", 
+            "desc": "NULL Pointer Dereference"
+        }
+    ], 
+    "CROMU_00016": [
+        {
+            "CWE": "CWE-131", 
+            "desc": "Incorrect Calculation of Buffer Size"
+        }, 
+        {
+            "CWE": "CWE-120", 
+            "desc": "Buffer Copy without Checking Size of Input"
+        }
+    ], 
+    "CROMU_00017": [
+        {
+            "CWE": "CWE-121", 
+            "desc": "Stack-based Buffer Overflow"
+        }
+    ], 
+    "CROMU_00018": [
+        {
+            "CWE": "CWE-119", 
+            "desc": "Improper Restriction of Operations within the Bounds of a Memory Buffer"
+        }, 
+        {
+            "CWE": "CWE-196", 
+            "desc": "Unsigned to Signed Conversion Error"
+        }, 
+        {
+            "CWE": "CWE-191", 
+            "desc": "Integer Underflow (Wrap or Wraparound)"
+        }
+    ], 
+    "CROMU_00019": [
+        {
+            "CWE": "CWE-121", 
+            "desc": "Stack-based Buffer Overflow"
+        }
+    ], 
+    "CROMU_00020": [
+        {
+            "CWE": "CWE-121", 
+            "desc": "Stack-based Buffer Overflow"
+        }
+    ], 
+    "CROMU_00021": [
+        {
+            "CWE": "CWE-843", 
+            "desc": "Type Confusion"
+        }, 
+        {
+            "CWE": "CWE-125", 
+            "desc": "Out of bounds read"
+        }, 
+        {
+            "CWE": "CWE-787", 
+            "desc": "Ouf of bounds write"
+        }, 
+        {
+            "CWE": "CWE-190", 
+            "desc": "CWE-476 NULL Pointer DREF"
+        }
+    ], 
+    "CROMU_00022": [
+        {
+            "CWE": "CWE-787", 
+            "desc": "CWE-839"
+        }
+    ], 
+    "CROMU_00023": [
+        {
+            "CWE": "CWE-119", 
+            "desc": "Improper Restriction of Operations within the Bounds of a Memory Buffer"
+        }
+    ], 
+    "CROMU_00024": [
+        {
+            "CWE": "CWE-476", 
+            "desc": ""
+        }
+    ], 
+    "CROMU_00025": [
+        {
+            "CWE": "CWE-129", 
+            "desc": "Improper Validation of Array Index. The product uses untrusted input when calculating or using an array index, but the product does not validate or incorrectly validates the index to ensure the index references a valid position within the array. Also known as out-of-bounds array index."
+        }, 
+        {
+            "CWE": "CWE-416", 
+            "desc": "Use after free. Referencing memory after it has been freed."
+        }
+    ], 
+    "CROMU_00026": [
+        {
+            "CWE": "CWE-131", 
+            "desc": "Improper Calculation of Buffer Size"
+        }, 
+        {
+            "CWE": "CWE-119", 
+            "desc": "Improper Restriction of Operations within the Bounds of a Memory Buffer"
+        }, 
+        {
+            "CWE": "CWE-121", 
+            "desc": "Stack-based Buffer Overflow"
+        }
+    ], 
+    "CROMU_00027": [
+        {
+            "CWE": "CWE-787", 
+            "desc": "- Out of bounds write"
+        }, 
+        {
+            "CWE": "CWE-476", 
+            "desc": "- Null pointer dereference"
+        }, 
+        {
+            "CWE": "CWE-195", 
+            "desc": "- Signed to unsigned conversion error"
+        }
+    ], 
+    "CROMU_00028": [
+        {
+            "CWE": "CWE-129", 
+            "desc": "Improper Validation of Array Index"
+        }
+    ], 
+    "CROMU_00029": [
+        {
+            "CWE": "CWE-190", 
+            "desc": "Integer Overflow or Wraparound and CWE-131 Incorrect Calculation of Buffer Size"
+        }, 
+        {
+            "CWE": "CWE-129", 
+            "desc": "Improper Validation of Array Index"
+        }
+    ], 
+    "CROMU_00030": [
+        {
+            "CWE": "CWE-121", 
+            "desc": "Stack-based Buffer Overflow"
+        }
+    ], 
+    "CROMU_00031": [
+        {
+            "CWE": "CWE-787", 
+            "desc": "Out-of-bounds write"
+        }
+    ], 
+    "CROMU_00032": [
+        {
+            "CWE": "CWE-120", 
+            "desc": "Buffer copy without checking size of input"
+        }
+    ], 
+    "CROMU_00033": [
+        {
+            "CWE": "CWE-125", 
+            "desc": "Out-of-bounds Read"
+        }
+    ], 
+    "CROMU_00034": [
+        {
+            "CWE": "CWE-125", 
+            "desc": "Out-of-bounds Read"
+        }, 
+        {
+            "CWE": "CWE-121", 
+            "desc": "Stack-based Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-125", 
+            "desc": "Out-of-bounds Read"
+        }, 
+        {
+            "CWE": "CWE-476", 
+            "desc": "Null pointer dereference"
+        }
+    ], 
+    "CROMU_00035": [
+        {
+            "CWE": "CWE-785", 
+            "desc": "Use of Path Manipulation Function without Maximum-sized Buffer"
+        }, 
+        {
+            "CWE": "CWE-416", 
+            "desc": "Use After Free"
+        }
+    ], 
+    "CROMU_00036": [
+        {
+            "CWE": "CWE-805", 
+            "desc": "CWE-119 Improper Restriction of Operations within the Bounds of a Memory Buffer"
+        }
+    ], 
+    "CROMU_00037": [
+        {
+            "CWE": "CWE-798", 
+            "desc": "Use of Hard-coded Credentials"
+        }, 
+        {
+            "CWE": "CWE-131", 
+            "desc": "Incorrect Calculation of Buffer Size"
+        }
+    ], 
+    "CROMU_00038": [
+        {
+            "CWE": "CWE-823", 
+            "desc": "CWE-824 Access of Uninitialized Pointer"
+        }
+    ], 
+    "CROMU_00039": [
+        {
+            "CWE": "CWE-120", 
+            "desc": "Buffer Copy without Checking Size of Input"
+        }
+    ], 
+    "CROMU_00040": [
+        {
+            "CWE": "CWE-193", 
+            "desc": "CWE-476 -- Null dref"
+        }
+    ], 
+    "CROMU_00041": [
+        {
+            "CWE": "CWE-121", 
+            "desc": "Stack-based Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-121", 
+            "desc": "Stack-based Buffer Overflow"
+        }
+    ], 
+    "CROMU_00042": [
+        {
+            "CWE": "CWE-195", 
+            "desc": "sort command"
+        }, 
+        {
+            "CWE": "CWE-131", 
+            "desc": "CWE-190 Integer Overflow or Wraparound"
+        }, 
+        {
+            "CWE": "CWE-121", 
+            "desc": "simon command"
+        }
+    ], 
+    "CROMU_00043": [
+        {
+            "CWE": "CWE-134", 
+            "desc": "- Uncontrolled Format String"
+        }, 
+        {
+            "CWE": "CWE-125", 
+            "desc": "- Out of Bounds Read"
+        }
+    ], 
+    "CROMU_00044": [
+        {
+            "CWE": "CWE-416", 
+            "desc": "Use After Free"
+        }
+    ], 
+    "CROMU_00046": [
+        {
+            "CWE": "CWE-119", 
+            "desc": "Improper Restriction of Operations within the Bounds of a Memory Buffer"
+        }
+    ], 
+    "CROMU_00047": [
+        {
+            "CWE": "CWE-120", 
+            "desc": "Vulnerability 1 of 1"
+        }
+    ], 
+    "CROMU_00048": [
+        {
+            "CWE": "CWE-196", 
+            "desc": "Unsigned to Signed Conversion Error"
+        }, 
+        {
+            "CWE": "CWE-131", 
+            "desc": "Incorrect Calculation of Buffer Size"
+        }
+    ], 
+    "CROMU_00051": [
+        {
+            "CWE": "CWE-193", 
+            "desc": "Off-by-one Error"
+        }, 
+        {
+            "CWE": "CWE-20", 
+            "desc": "Improper Input Validation"
+        }
+    ], 
+    "CROMU_00054": [
+        {
+            "CWE": "CWE-125", 
+            "desc": "Vulnerability 1 of 1"
+        }
+    ], 
+    "CROMU_00055": [
+        {
+            "CWE": "CWE-190", 
+            "desc": "CWE-131 Incorrect Calculation of Buffer Size"
+        }
+    ], 
+    "CROMU_00057": [
+        {
+            "CWE": "CWE-122", 
+            "desc": "Heap-based Buffer Overflow"
+        }
+    ], 
+    "CROMU_00058": [
+        {
+            "CWE": "CWE-125", 
+            "desc": "Insufficient bounds checking"
+        }
+    ], 
+    "CROMU_00061": [
+        {
+            "CWE": "CWE-787", 
+            "desc": "Vulnerability 1 of 1"
+        }
+    ], 
+    "CROMU_00063": [
+        {
+            "CWE": "CWE-20", 
+            "desc": "Vulnerability #1"
+        }, 
+        {
+            "CWE": "CWE-129", 
+            "desc": "Vulnerability #2"
+        }, 
+        {
+            "CWE": "CWE-316", 
+            "desc": "CWE-665 Improper Initialization"
+        }
+    ], 
+    "CROMU_00064": [
+        {
+            "CWE": "CWE-121", 
+            "desc": "Stack-based Buffer Overflow"
+        }
+    ], 
+    "CROMU_00065": [
+        {
+            "CWE": "CWE-121", 
+            "desc": "Stack-based Buffer Overflow"
+        }
+    ], 
+    "CROMU_00066": [
+        {
+            "CWE": "CWE-131", 
+            "desc": "Incorrect Calculation of Buffer Size"
+        }, 
+        {
+            "CWE": "CWE-121", 
+            "desc": "Stack-based Buffer Overflow"
+        }
+    ], 
+    "CROMU_00070": [
+        {
+            "CWE": "CWE-120", 
+            "desc": "Vulnerability 1 of 2"
+        }, 
+        {
+            "CWE": "CWE-457", 
+            "desc": "Vulnerability 2 of 2"
+        }
+    ], 
+    "CROMU_00071": [
+        {
+            "CWE": "CWE-121", 
+            "desc": "Stack-based buffer overflow"
+        }
+    ], 
+    "CROMU_00072": [
+        {
+            "CWE": "CWE-124", 
+            "desc": "Buffer Underwrite ('Buffer Underflow')"
+        }, 
+        {
+            "CWE": "CWE-131", 
+            "desc": "Incorrect Calculation of Buffer Size"
+        }
+    ], 
+    "CROMU_00073": [
+        {
+            "CWE": "CWE-121", 
+            "desc": "Stack-based Buffer Overflow"
+        }
+    ], 
+    "CROMU_00076": [
+        {
+            "CWE": "CWE-120", 
+            "desc": "Buffer Copy without Checking Size of Input"
+        }
+    ], 
+    "CROMU_00077": [
+        {
+            "CWE": "CWE-196", 
+            "desc": "Vulnerability 1 of 1"
+        }
+    ], 
+    "CROMU_00078": [
+        {
+            "CWE": "CWE-125", 
+            "desc": "Out-of-bounds read"
+        }
+    ], 
+    "CROMU_00079": [
+        {
+            "CWE": "CWE-129", 
+            "desc": "Improper validation of array index"
+        }
+    ], 
+    "CROMU_00082": [
+        {
+            "CWE": "CWE-787", 
+            "desc": "Vulnerability 1 of 1"
+        }
+    ], 
+    "CROMU_00083": [
+        {
+            "CWE": "CWE-193", 
+            "desc": "Off By One"
+        }
+    ], 
+    "CROMU_00084": [
+        {
+            "CWE": "CWE-121", 
+            "desc": "Vulnerability 1 of 1"
+        }
+    ], 
+    "CROMU_00087": [
+        {
+            "CWE": "CWE-129", 
+            "desc": "Improper Validation of Array Index"
+        }
+    ], 
+    "CROMU_00088": [
+        {
+            "CWE": "CWE-121", 
+            "desc": "Stack based buffer overflow"
+        }
+    ], 
+    "CROMU_00092": [
+        {
+            "CWE": "CWE-190", 
+            "desc": "Integer Overflow or Wraparound"
+        }, 
+        {
+            "CWE": "CWE-787", 
+            "desc": "Out-of-bounds Write"
+        }
+    ], 
+    "CROMU_00093": [
+        {
+            "CWE": "CWE-798", 
+            "desc": "CWE-120 Buffer Copy without Checking Size of Input ('Classic Buffer Overflow')"
+        }
+    ], 
+    "CROMU_00094": [
+        {
+            "CWE": "CWE-121", 
+            "desc": "Stack based buffer overflow"
+        }
+    ], 
+    "CROMU_00095": [
+        {
+            "CWE": "CWE-135", 
+            "desc": "- Incorrect Calculation of Multi-Byte String Length"
+        }
+    ], 
+    "CROMU_00096": [
+        {
+            "CWE": "CWE-193", 
+            "desc": "- Off by one error"
+        }
+    ], 
+    "CROMU_00097": [
+        {
+            "CWE": "CWE-788", 
+            "desc": "- Access of Memory Location After End of Buffer"
+        }
+    ], 
+    "CROMU_00098": [
+        {
+            "CWE": "CWE-120", 
+            "desc": "Buffer Copy without Checking Size of Input ('Classic Buffer Overflow')"
+        }
+    ], 
+    "EAGLE_00004": [], 
+    "EAGLE_00005": [
+        {
+            "CWE": "CWE-134", 
+            "desc": "CWE-121"
+        }
+    ], 
+    "KPRCA_00001": [
+        {
+            "CWE": "CWE-121", 
+            "desc": "Stack-based Buffer Overflow"
+        }
+    ], 
+    "KPRCA_00002": [
+        {
+            "CWE": "CWE-122", 
+            "desc": "Heap-based Buffer Overflow"
+        }
+    ], 
+    "KPRCA_00003": [
+        {
+            "CWE": "CWE-787", 
+            "desc": "Out-of-bounds Write"
+        }
+    ], 
+    "KPRCA_00007": [
+        {
+            "CWE": "CWE-129", 
+            "desc": "Improper Validation of Array Index"
+        }
+    ], 
+    "KPRCA_00008": [
+        {
+            "CWE": "CWE-787", 
+            "desc": "Out-of-bounds Write"
+        }
+    ], 
+    "KPRCA_00009": [
+        {
+            "CWE": "CWE-170", 
+            "desc": "Improper Null Termination"
+        }
+    ], 
+    "KPRCA_00010": [
+        {
+            "CWE": "CWE-122", 
+            "desc": "Heap-based Buffer Overflow"
+        }
+    ], 
+    "KPRCA_00011": [
+        {
+            "CWE": "CWE-121", 
+            "desc": "Stack-based Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-416", 
+            "desc": "Use-After-Free"
+        }
+    ], 
+    "KPRCA_00012": [
+        {
+            "CWE": "CWE-121", 
+            "desc": "Stack-based Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-190", 
+            "desc": "Integer Overflow or Wraparound"
+        }
+    ], 
+    "KPRCA_00013": [
+        {
+            "CWE": "CWE-457", 
+            "desc": "CWE-193 Off-by-one Error"
+        }
+    ], 
+    "KPRCA_00014": [
+        {
+            "CWE": "CWE-127", 
+            "desc": "Buffer Under-read"
+        }
+    ], 
+    "KPRCA_00015": [
+        {
+            "CWE": "CWE-822", 
+            "desc": "Untrusted Pointer Dereference"
+        }
+    ], 
+    "KPRCA_00016": [
+        {
+            "CWE": "CWE-195", 
+            "desc": "Signed to Unsigned Conversion Error"
+        }, 
+        {
+            "CWE": "CWE-476", 
+            "desc": "NULL Pointer Dereference"
+        }, 
+        {
+            "CWE": "CWE-908", 
+            "desc": "Use of Uninitiailized Resource"
+        }
+    ], 
+    "KPRCA_00017": [
+        {
+            "CWE": "CWE-457", 
+            "desc": "Use of Uninitialized Variable"
+        }
+    ], 
+    "KPRCA_00018": [
+        {
+            "CWE": "CWE-190", 
+            "desc": "Integer Overflow or Wraparound"
+        }
+    ], 
+    "KPRCA_00019": [
+        {
+            "CWE": "CWE-122", 
+            "desc": "Heap-based Buffer Overflow"
+        }
+    ], 
+    "KPRCA_00020": [
+        {
+            "CWE": "CWE-125", 
+            "desc": "Out-of-bounds Read"
+        }
+    ], 
+    "KPRCA_00021": [
+        {
+            "CWE": "CWE-121", 
+            "desc": "Stack-based Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-908", 
+            "desc": "Use of Uninitialized Resource"
+        }
+    ], 
+    "KPRCA_00022": [
+        {
+            "CWE": "CWE-120", 
+            "desc": "Buffer Copy without Checking Size of Input ('Classic Buffer Overflow')"
+        }
+    ], 
+    "KPRCA_00023": [
+        {
+            "CWE": "CWE-122", 
+            "desc": "CWE-120 Buffer Copy without Checking Size of Input ('Classic Buffer Overflow')"
+        }
+    ], 
+    "KPRCA_00024": [
+        {
+            "CWE": "CWE-121", 
+            "desc": "Stack-based Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-252", 
+            "desc": "Unchecked Return Value"
+        }
+    ], 
+    "KPRCA_00025": [
+        {
+            "CWE": "CWE-122", 
+            "desc": "Heap-based Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-190", 
+            "desc": "Integer Overflow or Wraparound"
+        }, 
+        {
+            "CWE": "CWE-908", 
+            "desc": "Use of Uninitialized Resource"
+        }
+    ], 
+    "KPRCA_00026": [
+        {
+            "CWE": "CWE-122", 
+            "desc": "Heap-based Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-367", 
+            "desc": "TOCTOU Error"
+        }, 
+        {
+            "CWE": "CWE-476", 
+            "desc": "NULL Pointer Dereference"
+        }
+    ], 
+    "KPRCA_00027": [
+        {
+            "CWE": "CWE-121", 
+            "desc": "Stack-based Buffer Overflow"
+        }
+    ], 
+    "KPRCA_00028": [
+        {
+            "CWE": "CWE-476", 
+            "desc": "Null Pointer Dereference"
+        }, 
+        {
+            "CWE": "CWE-843", 
+            "desc": "Access of Resource Using Incompatible Type ('Type Confusion')"
+        }
+    ], 
+    "KPRCA_00029": [
+        {
+            "CWE": "CWE-121", 
+            "desc": "Stack-based Buffer Overflow"
+        }
+    ], 
+    "KPRCA_00030": [
+        {
+            "CWE": "CWE-690", 
+            "desc": "Unchecked Return Value"
+        }
+    ], 
+    "KPRCA_00031": [
+        {
+            "CWE": "CWE-122", 
+            "desc": "Heap-based Buffer Overflow"
+        }
+    ], 
+    "KPRCA_00032": [
+        {
+            "CWE": "CWE-122", 
+            "desc": "Heap-based Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-755", 
+            "desc": "Improper Handling of Exceptional Conditions"
+        }
+    ], 
+    "KPRCA_00033": [
+        {
+            "CWE": "CWE-843", 
+            "desc": "Access of Resource Using Incompatible Type 'Type Confusion'"
+        }
+    ], 
+    "KPRCA_00034": [
+        {
+            "CWE": "CWE-134", 
+            "desc": "Uncontrolled Format Sting"
+        }
+    ], 
+    "KPRCA_00035": [
+        {
+            "CWE": "CWE-129", 
+            "desc": "Improper Validation of Array Index"
+        }, 
+        {
+            "CWE": "CWE-665", 
+            "desc": "Improper Initialization"
+        }, 
+        {
+            "CWE": "CWE-787", 
+            "desc": "Out-of-bounds Write"
+        }
+    ], 
+    "KPRCA_00036": [
+        {
+            "CWE": "CWE-674", 
+            "desc": "CWE-193 Off-by-one Error"
+        }
+    ], 
+    "KPRCA_00037": [
+        {
+            "CWE": "CWE-190", 
+            "desc": "CWE-839 Numeric Range Comparison Without Minimum Check"
+        }
+    ], 
+    "KPRCA_00038": [
+        {
+            "CWE": "CWE-134", 
+            "desc": "Uncontrolled Format Sting"
+        }, 
+        {
+            "CWE": "CWE-476", 
+            "desc": "NULL Pointer Dereference"
+        }, 
+        {
+            "CWE": "CWE-674", 
+            "desc": "Uncontrolled Recursion"
+        }
+    ], 
+    "KPRCA_00039": [
+        {
+            "CWE": "CWE-134", 
+            "desc": "Uncontrolled Format Sting"
+        }
+    ], 
+    "KPRCA_00040": [
+        {
+            "CWE": "CWE-121", 
+            "desc": "Stack-based Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-787", 
+            "desc": "Out-of-bounds Write"
+        }, 
+        {
+            "CWE": "CWE-788", 
+            "desc": "Access of Memory Location After End of Buffer"
+        }
+    ], 
+    "KPRCA_00041": [
+        {
+            "CWE": "CWE-121", 
+            "desc": "Stack-based Buffer Overflow"
+        }
+    ], 
+    "KPRCA_00042": [
+        {
+            "CWE": "CWE-134", 
+            "desc": "Uncontrolled Format String"
+        }
+    ], 
+    "KPRCA_00043": [
+        {
+            "CWE": "CWE-121", 
+            "desc": "Stack-based Buffer Overflow"
+        }
+    ], 
+    "KPRCA_00044": [
+        {
+            "CWE": "CWE-788", 
+            "desc": "Access of Memory Location After End of Buffer"
+        }
+    ], 
+    "KPRCA_00045": [
+        {
+            "CWE": "CWE-122", 
+            "desc": "Heap-based Buffer Overflow"
+        }
+    ], 
+    "KPRCA_00046": [
+        {
+            "CWE": "CWE-823", 
+            "desc": "CWE-122 Heap-based Buffer Overflow"
+        }
+    ], 
+    "KPRCA_00047": [
+        {
+            "CWE": "CWE-121", 
+            "desc": "Stack-based Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-787", 
+            "desc": "Out-of-bounds Write"
+        }, 
+        {
+            "CWE": "CWE-190", 
+            "desc": "Integer Overflow or Wraparound"
+        }
+    ], 
+    "KPRCA_00048": [
+        {
+            "CWE": "CWE-122", 
+            "desc": "Heap-based Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-131", 
+            "desc": "Incorrect Calculation of Buffer Size"
+        }, 
+        {
+            "CWE": "CWE-788", 
+            "desc": "Access of Memory Location After End of Buffer"
+        }, 
+        {
+            "CWE": "CWE-476", 
+            "desc": "NULL Pointer Dereference"
+        }
+    ], 
+    "KPRCA_00049": [
+        {
+            "CWE": "CWE-122", 
+            "desc": "Heap-based Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-674", 
+            "desc": "Uncontrolled Recursion"
+        }
+    ], 
+    "KPRCA_00050": [
+        {
+            "CWE": "CWE-822", 
+            "desc": "Untrusted Pointer Dereference"
+        }
+    ], 
+    "KPRCA_00051": [
+        {
+            "CWE": "CWE-783", 
+            "desc": "Operator Precedence Logic Error"
+        }
+    ], 
+    "KPRCA_00052": [
+        {
+            "CWE": "CWE-476", 
+            "desc": "Null Pointer Dereference"
+        }
+    ], 
+    "KPRCA_00053": [
+        {
+            "CWE": "CWE-783", 
+            "desc": "Operator Precedence Logic Error"
+        }
+    ], 
+    "KPRCA_00054": [
+        {
+            "CWE": "CWE-416", 
+            "desc": "Use After Free"
+        }
+    ], 
+    "KPRCA_00055": [
+        {
+            "CWE": "CWE-121", 
+            "desc": ""
+        }
+    ], 
+    "KPRCA_00056": [
+        {
+            "CWE": "CWE-823", 
+            "desc": "CWE-787 Out-of-bounds Write"
+        }
+    ], 
+    "KPRCA_00057": [
+        {
+            "CWE": "CWE-129", 
+            "desc": "CWE-125 Out-of-bounds Read"
+        }
+    ], 
+    "KPRCA_00058": [
+        {
+            "CWE": "CWE-121", 
+            "desc": "Stack-based Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-190", 
+            "desc": "Integer Overflow or Wraparound"
+        }
+    ], 
+    "KPRCA_00059": [
+        {
+            "CWE": "CWE-125", 
+            "desc": "Out-of-bounds Read"
+        }, 
+        {
+            "CWE": "CWE-226", 
+            "desc": "Sensitive Information Uncleared Before Release"
+        }
+    ], 
+    "KPRCA_00060": [
+        {
+            "CWE": "CWE-122", 
+            "desc": "Heap-based Buffer Overflow"
+        }
+    ], 
+    "KPRCA_00062": [
+        {
+            "CWE": "CWE-121", 
+            "desc": ""
+        }
+    ], 
+    "KPRCA_00064": [
+        {
+            "CWE": "CWE-121", 
+            "desc": "Stack-based Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-125", 
+            "desc": "Out-of-bounds Read"
+        }, 
+        {
+            "CWE": "CWE-129", 
+            "desc": "Improper Validation of Array Index"
+        }
+    ], 
+    "KPRCA_00065": [
+        {
+            "CWE": "CWE-126", 
+            "desc": "Buffer Over-read"
+        }
+    ], 
+    "KPRCA_00068": [
+        {
+            "CWE": "CWE-126", 
+            "desc": "Buffer Over-read"
+        }
+    ], 
+    "KPRCA_00069": [
+        {
+            "CWE": "CWE-134", 
+            "desc": "Uncontrolled Format String"
+        }, 
+        {
+            "CWE": "CWE-121", 
+            "desc": "Stack-based Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-839", 
+            "desc": "Numeric Range Comparison Without Minimum Check"
+        }
+    ], 
+    "KPRCA_00071": [
+        {
+            "CWE": "CWE-121", 
+            "desc": "Stack-based Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-839", 
+            "desc": "Numeric Range Comparison Without Minimum Check"
+        }
+    ], 
+    "KPRCA_00073": [
+        {
+            "CWE": "CWE-787", 
+            "desc": "CWE-121 Stack-based Buffer Overflow"
+        }
+    ], 
+    "KPRCA_00074": [
+        {
+            "CWE": "CWE-125", 
+            "desc": "CWE-123 Write-what-where Condition"
+        }
+    ], 
+    "KPRCA_00075": [
+        {
+            "CWE": "CWE-122", 
+            "desc": "Heap-based Buffer Overflow"
+        }
+    ], 
+    "KPRCA_00077": [
+        {
+            "CWE": "CWE-125", 
+            "desc": "Out-of-bounds Read"
+        }, 
+        {
+            "CWE": "CWE-129", 
+            "desc": "Improper Validation of Array Index"
+        }, 
+        {
+            "CWE": "CWE-398", 
+            "desc": "Indicator of Poor Code Quality"
+        }
+    ], 
+    "KPRCA_00079": [
+        {
+            "CWE": "CWE-121", 
+            "desc": "Stack-based Buffer Overflow"
+        }
+    ], 
+    "KPRCA_00081": [
+        {
+            "CWE": "CWE-122", 
+            "desc": "Heap-based Buffer Overflow"
+        }
+    ], 
+    "KPRCA_00086": [
+        {
+            "CWE": "CWE-122", 
+            "desc": "Heap-based Buffer Overflow"
+        }
+    ], 
+    "KPRCA_00087": [
+        {
+            "CWE": "CWE-121", 
+            "desc": "Stack-based Buffer Overflow"
+        }
+    ], 
+    "KPRCA_00088": [
+        {
+            "CWE": "CWE-122", 
+            "desc": "Heap-based Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-119", 
+            "desc": "Improper Restriction of Operations within the Bounds of a Memory Buffer"
+        }
+    ], 
+    "KPRCA_00091": [
+        {
+            "CWE": "CWE-786", 
+            "desc": "Access of Memory Location Before Start of Buffer"
+        }
+    ], 
+    "KPRCA_00093": [
+        {
+            "CWE": "CWE-287", 
+            "desc": "CWE-121 Stack-based Buffer Overflow"
+        }
+    ], 
+    "KPRCA_00094": [
+        {
+            "CWE": "CWE-121", 
+            "desc": "Stack-based Buffer Overflow"
+        }
+    ], 
+    "KPRCA_00097": [
+        {
+            "CWE": "CWE-843", 
+            "desc": "Access of Resource Using Incompatible Type ('Type Confusion')"
+        }
+    ], 
+    "KPRCA_00099": [
+        {
+            "CWE": "CWE-121", 
+            "desc": "Stack-based Buffer Overflow"
+        }
+    ], 
+    "KPRCA_00100": [
+        {
+            "CWE": "CWE-416", 
+            "desc": "Use After Free"
+        }, 
+        {
+            "CWE": "CWE-825", 
+            "desc": "Expired Pointer Dereference"
+        }
+    ], 
+    "KPRCA_00101": [
+        {
+            "CWE": "CWE-122", 
+            "desc": "CWE-119 Improper Restriction of Operations within the Bounds of a Memory Buffer"
+        }
+    ], 
+    "KPRCA_00102": [
+        {
+            "CWE": "CWE-121", 
+            "desc": "Stack-based Buffer Overflow"
+        }
+    ], 
+    "KPRCA_00110": [
+        {
+            "CWE": "CWE-121", 
+            "desc": "Stack-based Buffer Overflow"
+        }
+    ], 
+    "KPRCA_00111": [
+        {
+            "CWE": "CWE-129", 
+            "desc": "CWE-125 Out-of-bounds Read"
+        }
+    ], 
+    "KPRCA_00112": [
+        {
+            "CWE": "CWE-121", 
+            "desc": "CWE-681 Incorrect Conversion between Numeric Types"
+        }
+    ], 
+    "KPRCA_00119": [
+        {
+            "CWE": "CWE-680", 
+            "desc": "Integer Overflow to Buffer Overflow"
+        }
+    ], 
+    "KPRCA_00120": [
+        {
+            "CWE": "CWE-134", 
+            "desc": "Use of Externally-Controlled Format String"
+        }
+    ], 
+    "LUNGE_00002": [], 
+    "LUNGE_00003": [
+        {
+            "CWE": "CWE-476", 
+            "desc": "NULL Pointer Dereference"
+        }
+    ], 
+    "LUNGE_00004": [
+        {
+            "CWE": "CWE-476", 
+            "desc": "NULL Pointer Dereference"
+        }
+    ], 
+    "LUNGE_00005": [
+        {
+            "CWE": "CWE-121", 
+            "desc": ""
+        }
+    ], 
+    "NRFIN_00001": [
+        {
+            "CWE": "CWE-134", 
+            "desc": "Uncontrolled Format String"
+        }
+    ], 
+    "NRFIN_00003": [
+        {
+            "CWE": "CWE-120", 
+            "desc": "Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-121", 
+            "desc": "Stack-Based Buffer Overflow"
+        }
+    ], 
+    "NRFIN_00004": [
+        {
+            "CWE": "CWE-122", 
+            "desc": "CWE-120 Buffer Overflow"
+        }
+    ], 
+    "NRFIN_00005": [
+        {
+            "CWE": "CWE-120", 
+            "desc": "Integer Overflow"
+        }, 
+        {
+            "CWE": "CWE-476", 
+            "desc": "NULL Pointer Dereference"
+        }
+    ], 
+    "NRFIN_00006": [
+        {
+            "CWE": "CWE-416", 
+            "desc": "Use After Free"
+        }, 
+        {
+            "CWE": "CWE-200", 
+            "desc": "Information Exposure"
+        }
+    ], 
+    "NRFIN_00007": [
+        {
+            "CWE": "CWE-120", 
+            "desc": ""
+        }
+    ], 
+    "NRFIN_00008": [
+        {
+            "CWE": "CWE-680", 
+            "desc": ""
+        }
+    ], 
+    "NRFIN_00009": [
+        {
+            "CWE": "CWE-120", 
+            "desc": "Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-122", 
+            "desc": "Heap-based Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-20", 
+            "desc": "Improper Input Validation"
+        }, 
+        {
+            "CWE": "CWE-839", 
+            "desc": "Numeric Range Comparison Without Minimum Check"
+        }, 
+        {
+            "CWE": "CWE-787", 
+            "desc": "Out-of-bounds Write"
+        }
+    ], 
+    "NRFIN_00010": [
+        {
+            "CWE": "CWE-476", 
+            "desc": "NULL Pointer Dereference"
+        }
+    ], 
+    "NRFIN_00011": [
+        {
+            "CWE": "CWE-120", 
+            "desc": "Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-121", 
+            "desc": "Stack-Based Buffer Overflow"
+        }
+    ], 
+    "NRFIN_00012": [
+        {
+            "CWE": "CWE-125", 
+            "desc": "CWE-457 Use of uninitialized variable"
+        }
+    ], 
+    "NRFIN_00013": [
+        {
+            "CWE": "CWE-20", 
+            "desc": "Improper Input Validation"
+        }, 
+        {
+            "CWE": "CWE-476", 
+            "desc": "NULL Pointer Dereference"
+        }
+    ], 
+    "NRFIN_00014": [
+        {
+            "CWE": "CWE-476", 
+            "desc": "NULL Pointer Dereference"
+        }
+    ], 
+    "NRFIN_00015": [
+        {
+            "CWE": "CWE-193", 
+            "desc": "Off-by-one Error"
+        }, 
+        {
+            "CWE": "CWE-121", 
+            "desc": "Stack-based Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-122", 
+            "desc": "Heap-based Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-125", 
+            "desc": "Out-of-bounds Read"
+        }
+    ], 
+    "NRFIN_00016": [
+        {
+            "CWE": "CWE-121", 
+            "desc": "CWE-120 Buffer copy without Checking Size of Input"
+        }, 
+        {
+            "CWE": "CWE-195", 
+            "desc": "CWE-191 Integer Underflow"
+        }
+    ], 
+    "NRFIN_00017": [
+        {
+            "CWE": "CWE-20", 
+            "desc": "Improper Input Validation"
+        }, 
+        {
+            "CWE": "CWE-129", 
+            "desc": "Improper Validation of Array Index"
+        }, 
+        {
+            "CWE": "CWE-193", 
+            "desc": "Off-by-one Error"
+        }, 
+        {
+            "CWE": "CWE-476", 
+            "desc": "NULL Pointer Dereference"
+        }
+    ], 
+    "NRFIN_00018": [
+        {
+            "CWE": "CWE-787", 
+            "desc": "Out-of-bounds Write"
+        }, 
+        {
+            "CWE": "CWE-190", 
+            "desc": "Integer Overflow"
+        }, 
+        {
+            "CWE": "CWE-129", 
+            "desc": "Improper Validation of Array Index"
+        }
+    ], 
+    "NRFIN_00019": [
+        {
+            "CWE": "CWE-120", 
+            "desc": "Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-121", 
+            "desc": "Stack-Based Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-122", 
+            "desc": "Heap-Based Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-125", 
+            "desc": "Out-of-Bounds Read"
+        }, 
+        {
+            "CWE": "CWE-787", 
+            "desc": "Out-of-Bounds Write"
+        }, 
+        {
+            "CWE": "CWE-476", 
+            "desc": "NULL Pointer Dereference"
+        }
+    ], 
+    "NRFIN_00020": [
+        {
+            "CWE": "CWE-20", 
+            "desc": "Improper Input Validation"
+        }, 
+        {
+            "CWE": "CWE-129", 
+            "desc": "Improper Validation of Array Index"
+        }, 
+        {
+            "CWE": "CWE-193", 
+            "desc": "Off-by-one Error"
+        }
+    ], 
+    "NRFIN_00021": [
+        {
+            "CWE": "CWE-476", 
+            "desc": "Null Pointer Dereference)"
+        }, 
+        {
+            "CWE": "CWE-476", 
+            "desc": "Null Pointer Dereference"
+        }, 
+        {
+            "CWE": "CWE-787", 
+            "desc": "Out-of-bounds Write"
+        }, 
+        {
+            "CWE": "CWE-190", 
+            "desc": "Integer Overflow"
+        }
+    ], 
+    "NRFIN_00022": [
+        {
+            "CWE": "CWE-20", 
+            "desc": "Improper Input Validation"
+        }, 
+        {
+            "CWE": "CWE-129", 
+            "desc": "Improper Validation of Array Index"
+        }, 
+        {
+            "CWE": "CWE-190", 
+            "desc": "Integer Overflow or Wraparound"
+        }, 
+        {
+            "CWE": "CWE-191", 
+            "desc": "Integer Underflow or Wraparound"
+        }, 
+        {
+            "CWE": "CWE-193", 
+            "desc": "Off-by-one Error"
+        }, 
+        {
+            "CWE": "CWE-195", 
+            "desc": "Signed to Unsigned Conversion Error"
+        }, 
+        {
+            "CWE": "CWE-680", 
+            "desc": "Integer Overfow to Buffer Overflow"
+        }
+    ], 
+    "NRFIN_00023": [
+        {
+            "CWE": "CWE-822", 
+            "desc": "Dereference of untrusted pointer"
+        }, 
+        {
+            "CWE": "CWE-190", 
+            "desc": "Integer overflow or wraparound"
+        }, 
+        {
+            "CWE": "CWE-129", 
+            "desc": "Improper validation of array index"
+        }, 
+        {
+            "CWE": "CWE-122", 
+            "desc": "Heap-based buffer overflow"
+        }, 
+        {
+            "CWE": "CWE-416", 
+            "desc": "Use after free"
+        }, 
+        {
+            "CWE": "CWE-843", 
+            "desc": "Access of resource using incompatible type"
+        }
+    ], 
+    "NRFIN_00024": [
+        {
+            "CWE": "CWE-193", 
+            "desc": "CWE-122 Heap-based buffer overflow"
+        }, 
+        {
+            "CWE": "CWE-825", 
+            "desc": "CWE-416 Use After Free"
+        }
+    ], 
+    "NRFIN_00025": [
+        {
+            "CWE": "CWE-674", 
+            "desc": ""
+        }
+    ], 
+    "NRFIN_00026": [
+        {
+            "CWE": "CWE-121", 
+            "desc": "CWE-131 Incorrect Calculation of Buffer Size"
+        }
+    ], 
+    "NRFIN_00027": [
+        {
+            "CWE": "CWE-125", 
+            "desc": "Out of bound read"
+        }, 
+        {
+            "CWE": "CWE-190", 
+            "desc": "Integer overflow or wraparound"
+        }, 
+        {
+            "CWE": "CWE-369", 
+            "desc": "Divide by zero"
+        }, 
+        {
+            "CWE": "CWE-682", 
+            "desc": "Incorrect calculation"
+        }, 
+        {
+            "CWE": "CWE-704", 
+            "desc": "Incorrect type conversion or cast"
+        }, 
+        {
+            "CWE": "CWE-843", 
+            "desc": "Access of resource using incompatible type"
+        }
+    ], 
+    "NRFIN_00028": [
+        {
+            "CWE": "CWE-347", 
+            "desc": "CWE-20  Improper Input Validation"
+        }, 
+        {
+            "CWE": "CWE-561", 
+            "desc": "CWE-393 Return of Wrong Status Code"
+        }, 
+        {
+            "CWE": "CWE-187", 
+            "desc": "CWE-20  Improper Input Validation"
+        }
+    ], 
+    "NRFIN_00029": [
+        {
+            "CWE": "CWE-22", 
+            "desc": "CWE-20 Improper input validation"
+        }, 
+        {
+            "CWE": "CWE-822", 
+            "desc": "CWE-176 Improper handling of unicode encoding"
+        }
+    ], 
+    "NRFIN_00030": [
+        {
+            "CWE": "CWE-20", 
+            "desc": "Improper Input Validation"
+        }, 
+        {
+            "CWE": "CWE-122", 
+            "desc": "Heap-based Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-129", 
+            "desc": "Improper Validation of Array Index"
+        }, 
+        {
+            "CWE": "CWE-131", 
+            "desc": "Incorrect Calculation of Buffer Size"
+        }, 
+        {
+            "CWE": "CWE-787", 
+            "desc": "Out-of-bounds Write"
+        }
+    ], 
+    "NRFIN_00032": [
+        {
+            "CWE": "CWE-122", 
+            "desc": "CWE-131 Incorrect Calculation of Buffer Size"
+        }
+    ], 
+    "NRFIN_00033": [
+        {
+            "CWE": "CWE-122", 
+            "desc": "Heap-based Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-457", 
+            "desc": "Use of Uninitialized Variable"
+        }, 
+        {
+            "CWE": "CWE-787", 
+            "desc": "Out-of-bounds Write"
+        }, 
+        {
+            "CWE": "CWE-788", 
+            "desc": "Access of Memory Location After End of Buffer"
+        }
+    ], 
+    "NRFIN_00034": [
+        {
+            "CWE": "CWE-61", 
+            "desc": "CWE-59 Improper link resolution before file access"
+        }, 
+        {
+            "CWE": "CWE-434", 
+            "desc": "CWE-275 Permission issues"
+        }
+    ], 
+    "NRFIN_00035": [
+        {
+            "CWE": "CWE-20", 
+            "desc": "Improper Input Validation"
+        }, 
+        {
+            "CWE": "CWE-128", 
+            "desc": "Wrap-around Error"
+        }, 
+        {
+            "CWE": "CWE-129", 
+            "desc": "Improper Validation of Array Index"
+        }, 
+        {
+            "CWE": "CWE-190", 
+            "desc": "Integer Overflow or Wraparound"
+        }, 
+        {
+            "CWE": "CWE-788", 
+            "desc": "Access of Memory Location After End of Buffer"
+        }, 
+        {
+            "CWE": "CWE-805", 
+            "desc": "Buffer Access with Incorrect Length Value"
+        }, 
+        {
+            "CWE": "CWE-824", 
+            "desc": "Access of Uninitialized Pointer"
+        }
+    ], 
+    "NRFIN_00036": [
+        {
+            "CWE": "CWE-122", 
+            "desc": "Heap-based Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-125", 
+            "desc": "Out-of-bounds Read"
+        }, 
+        {
+            "CWE": "CWE-131", 
+            "desc": "Incorrect Calculation of Buffer Size"
+        }, 
+        {
+            "CWE": "CWE-193", 
+            "desc": "Off-by-one Error"
+        }, 
+        {
+            "CWE": "CWE-469", 
+            "desc": "Use of Pointer Subtraction to Determine Size"
+        }, 
+        {
+            "CWE": "CWE-787", 
+            "desc": "Out-of-bounds Write"
+        }
+    ], 
+    "NRFIN_00037": [
+        {
+            "CWE": "CWE-20", 
+            "desc": "Improper Input Validation"
+        }, 
+        {
+            "CWE": "CWE-119", 
+            "desc": "Improper Restriction of Operations within the Bounds of a Memory Buffer"
+        }, 
+        {
+            "CWE": "CWE-125", 
+            "desc": "Out-of-Bounds Read"
+        }, 
+        {
+            "CWE": "CWE-367", 
+            "desc": "Time-of-Chceck Time-of-Use (TOCTOU)"
+        }, 
+        {
+            "CWE": "CWE-476", 
+            "desc": "NULL Pointer Dereference"
+        }, 
+        {
+            "CWE": "CWE-787", 
+            "desc": "Out-of-Bounds Write"
+        }
+    ], 
+    "NRFIN_00038": [
+        {
+            "CWE": "CWE-822", 
+            "desc": "CWE-121 Stack-based Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-201", 
+            "desc": "CWE-471 Modification if Assumed-Immutable Data"
+        }, 
+        {
+            "CWE": "CWE-327", 
+            "desc": "CWE-326 Inadequate Encryption Strength"
+        }
+    ], 
+    "NRFIN_00039": [
+        {
+            "CWE": "CWE-122", 
+            "desc": "Heap-based Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-123", 
+            "desc": "Write-what-where Condition"
+        }, 
+        {
+            "CWE": "CWE-190", 
+            "desc": "Integer Overflow or Wraparound"
+        }, 
+        {
+            "CWE": "CWE-763", 
+            "desc": "Release of Invalid Pointer or Reference"
+        }, 
+        {
+            "CWE": "CWE-788", 
+            "desc": "Access of Memory Location After End of Buffer"
+        }
+    ], 
+    "NRFIN_00040": [
+        {
+            "CWE": "CWE-843", 
+            "desc": "Type Confusion"
+        }, 
+        {
+            "CWE": "CWE-824", 
+            "desc": "Access of Uninitialized Pointer"
+        }, 
+        {
+            "CWE": "CWE-704", 
+            "desc": "Incorrect Type Conversion or Cast"
+        }, 
+        {
+            "CWE": "CWE-476", 
+            "desc": "Null Pointer Dereference"
+        }
+    ], 
+    "NRFIN_00041": [
+        {
+            "CWE": "CWE-120", 
+            "desc": "CWE-20 Improper Input Validation"
+        }, 
+        {
+            "CWE": "CWE-129", 
+            "desc": "CWE-122 Heap-based Buffer Overflow"
+        }
+    ], 
+    "NRFIN_00042": [
+        {
+            "CWE": "CWE-787", 
+            "desc": "CWE-131 Incorrect Calculation of Buffer Size"
+        }
+    ], 
+    "NRFIN_00043": [
+        {
+            "CWE": "CWE-201", 
+            "desc": ""
+        }
+    ], 
+    "NRFIN_00044": [
+        {
+            "CWE": "CWE-20", 
+            "desc": "Improper input validation"
+        }, 
+        {
+            "CWE": "CWE-134", 
+            "desc": "Uncontrolled format string"
+        }, 
+        {
+            "CWE": "CWE-201", 
+            "desc": "Information exposure through sent data"
+        }
+    ], 
+    "NRFIN_00045": [
+        {
+            "CWE": "CWE-388", 
+            "desc": "(Error Handling)"
+        }, 
+        {
+            "CWE": "CWE-822", 
+            "desc": "(Untrusted Pointer Deref)"
+        }
+    ], 
+    "NRFIN_00046": [
+        {
+            "CWE": "CWE-843", 
+            "desc": "CWE-122 Heap-based Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-843", 
+            "desc": ""
+        }
+    ], 
+    "NRFIN_00049": [
+        {
+            "CWE": "CWE-201", 
+            "desc": "Information exposure through sent data"
+        }, 
+        {
+            "CWE": "CWE-20", 
+            "desc": "Improper input validation"
+        }, 
+        {
+            "CWE": "CWE-190", 
+            "desc": "Integer overflow or wraparound"
+        }, 
+        {
+            "CWE": "CWE-129", 
+            "desc": "Improper validation of array index"
+        }
+    ], 
+    "NRFIN_00051": [
+        {
+            "CWE": "CWE-20", 
+            "desc": "Improper input validation"
+        }, 
+        {
+            "CWE": "CWE-129", 
+            "desc": "Improper validation of array index"
+        }, 
+        {
+            "CWE": "CWE-201", 
+            "desc": "Information Exposure Through Sent Data"
+        }
+    ], 
+    "NRFIN_00052": [
+        {
+            "CWE": "CWE-190", 
+            "desc": ""
+        }
+    ], 
+    "NRFIN_00053": [
+        {
+            "CWE": "CWE-201", 
+            "desc": ""
+        }, 
+        {
+            "CWE": "CWE-121", 
+            "desc": "CWE-120 Buffer Copy without Checking Size of Input"
+        }, 
+        {
+            "CWE": "CWE-787", 
+            "desc": "CWE-134 Uncontrolled Format String"
+        }, 
+        {
+            "CWE": "CWE-806", 
+            "desc": "CWE-788 Access of Memory Location After End of Buffer"
+        }
+    ], 
+    "NRFIN_00054": [
+        {
+            "CWE": "CWE-119", 
+            "desc": "Improper restriction of operations within the bounds of a memory buffer"
+        }, 
+        {
+            "CWE": "CWE-416", 
+            "desc": "Use after free"
+        }, 
+        {
+            "CWE": "CWE-703", 
+            "desc": "Improper check or handling of exceptional conditions"
+        }, 
+        {
+            "CWE": "CWE-704", 
+            "desc": "Incorrect type conversion or cast"
+        }, 
+        {
+            "CWE": "CWE-825", 
+            "desc": "Expired pointer dereference"
+        }, 
+        {
+            "CWE": "CWE-843", 
+            "desc": "Access of resource using incompatible type"
+        }
+    ], 
+    "NRFIN_00055": [
+        {
+            "CWE": "CWE-119", 
+            "desc": "Improper restriction of operations within the bounds of a memory buffer"
+        }, 
+        {
+            "CWE": "CWE-703", 
+            "desc": "Improper check or handling of exceptional conditions"
+        }, 
+        {
+            "CWE": "CWE-704", 
+            "desc": "Incorrect type conversion or cast"
+        }, 
+        {
+            "CWE": "CWE-843", 
+            "desc": "Access of resource using incompatible type"
+        }, 
+        {
+            "CWE": "CWE-119", 
+            "desc": "Improper restriction of operations within the bounds of a memory buffer"
+        }, 
+        {
+            "CWE": "CWE-703", 
+            "desc": "Improper check or handling of exceptional conditions"
+        }, 
+        {
+            "CWE": "CWE-704", 
+            "desc": "Incorrect type conversion or cast"
+        }, 
+        {
+            "CWE": "CWE-843", 
+            "desc": "Access of resource using incompatible type"
+        }
+    ], 
+    "NRFIN_00056": [
+        {
+            "CWE": "CWE-822", 
+            "desc": ""
+        }, 
+        {
+            "CWE": "CWE-822", 
+            "desc": ""
+        }
+    ], 
+    "NRFIN_00059": [
+        {
+            "CWE": "CWE-201", 
+            "desc": ""
+        }
+    ], 
+    "NRFIN_00061": [
+        {
+            "CWE": "CWE-122", 
+            "desc": "CWE-193 Off-by-one Error"
+        }, 
+        {
+            "CWE": "CWE-788", 
+            "desc": "CWE-787 Out-of-bounds Write"
+        }, 
+        {
+            "CWE": "CWE-193", 
+            "desc": "CWE-170 Improper Null Termination"
+        }
+    ], 
+    "NRFIN_00063": [
+        {
+            "CWE": "CWE-131", 
+            "desc": "CWE-122 Heap-Based Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-788", 
+            "desc": "CWE-787 Out-of-bounds Write"
+        }, 
+        {
+            "CWE": "CWE-120", 
+            "desc": "### CWE Classification"
+        }, 
+        {
+            "CWE": "CWE-131", 
+            "desc": "CWE-121 Stack-based Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-788", 
+            "desc": "CWE-787 Out-of-bounds Write"
+        }
+    ], 
+    "NRFIN_00064": [
+        {
+            "CWE": "CWE-193", 
+            "desc": "CWE-170 Improper Null Termination"
+        }, 
+        {
+            "CWE": "CWE-787", 
+            "desc": "CWE-121 Stack-based Buffer Overflow"
+        }
+    ], 
+    "NRFIN_00065": [
+        {
+            "CWE": "CWE-201", 
+            "desc": "Information Exposure Through Sent Data"
+        }, 
+        {
+            "CWE": "CWE-119", 
+            "desc": "Improper Restriction of Operations within the Bounds of a Memory Buffer"
+        }, 
+        {
+            "CWE": "CWE-119", 
+            "desc": "Improper Restriction of Operations within the Bounds of a Memory Buffer"
+        }, 
+        {
+            "CWE": "CWE-201", 
+            "desc": "Information Exposure Through Sent Data"
+        }, 
+        {
+            "CWE": "CWE-119", 
+            "desc": "Improper Restriction of Operations within the Bounds of a Memory Buffer"
+        }, 
+        {
+            "CWE": "CWE-201", 
+            "desc": "Information Exposure Through Sent Data"
+        }, 
+        {
+            "CWE": "CWE-665", 
+            "desc": "Improper Initialization"
+        }
+    ], 
+    "NRFIN_00066": [
+        {
+            "CWE": "CWE-465", 
+            "desc": "CWE-300 Channel Accessible by Non-Endpoint (\"Man in the Middle\")"
+        }, 
+        {
+            "CWE": "CWE-201", 
+            "desc": "CWE-200 Information Disclosure"
+        }, 
+        {
+            "CWE": "CWE-310", 
+            "desc": "CWE-300 Channel Accessible by Non-Endpoint (\"Man in the Middle\")"
+        }, 
+        {
+            "CWE": "CWE-515", 
+            "desc": "CWE-514 Covert Channel"
+        }
+    ], 
+    "NRFIN_00067": [
+        {
+            "CWE": "CWE-131", 
+            "desc": "CWE-122 Heap-Based Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-787", 
+            "desc": "CWE-704 Incorrect Type Conversion or Cast"
+        }, 
+        {
+            "CWE": "CWE-805", 
+            "desc": "CWE-788 Access of Memory Location After End of Buffer"
+        }, 
+        {
+            "CWE": "CWE-131", 
+            "desc": "CWE-122 Heap-Based Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-787", 
+            "desc": "CWE-704 Incorrect Type Conversion or Cast"
+        }, 
+        {
+            "CWE": "CWE-805", 
+            "desc": "CWE-788 Access of Memory Location After End of Buffer"
+        }, 
+        {
+            "CWE": "CWE-131", 
+            "desc": "CWE-122 Heap-Based Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-787", 
+            "desc": "CWE-704 Incorrect Type Conversion or Cast"
+        }, 
+        {
+            "CWE": "CWE-805", 
+            "desc": "CWE-788 Access of Memory Location After End of Buffer"
+        }, 
+        {
+            "CWE": "CWE-131", 
+            "desc": "CWE-122 Heap-Based Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-787", 
+            "desc": "CWE-704 Incorrect Type Conversion or Cast"
+        }, 
+        {
+            "CWE": "CWE-805", 
+            "desc": "CWE-788 Access of Memory Location After End of Buffer"
+        }, 
+        {
+            "CWE": "CWE-131", 
+            "desc": "CWE-122 Heap-Based Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-787", 
+            "desc": "CWE-704 Incorrect Type Conversion or Cast"
+        }, 
+        {
+            "CWE": "CWE-805", 
+            "desc": "CWE-788 Access of Memory Location After End of Buffer"
+        }, 
+        {
+            "CWE": "CWE-131", 
+            "desc": "CWE-122 Heap-Based Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-787", 
+            "desc": "CWE-704 Incorrect Type Conversion or Cast"
+        }, 
+        {
+            "CWE": "CWE-805", 
+            "desc": "CWE-788 Access of Memory Location After End of Buffer"
+        }, 
+        {
+            "CWE": "CWE-131", 
+            "desc": "CWE-122 Heap-Based Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-787", 
+            "desc": "CWE-704 Incorrect Type Conversion or Cast"
+        }, 
+        {
+            "CWE": "CWE-805", 
+            "desc": "CWE-788 Access of Memory Location After End of Buffer"
+        }, 
+        {
+            "CWE": "CWE-131", 
+            "desc": "CWE-122 Heap-Based Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-787", 
+            "desc": "CWE-704 Incorrect Type Conversion or Cast"
+        }, 
+        {
+            "CWE": "CWE-805", 
+            "desc": "CWE-788 Access of Memory Location After End of Buffer"
+        }, 
+        {
+            "CWE": "CWE-131", 
+            "desc": "CWE-122 Heap-Based Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-787", 
+            "desc": "CWE-704 Incorrect Type Conversion or Cast"
+        }, 
+        {
+            "CWE": "CWE-805", 
+            "desc": "CWE-788 Access of Memory Location After End of Buffer"
+        }
+    ], 
+    "NRFIN_00069": [
+        {
+            "CWE": "CWE-125", 
+            "desc": "CWE-170 Improper Null Termination"
+        }
+    ], 
+    "NRFIN_00071": [
+        {
+            "CWE": "CWE-908", 
+            "desc": "### CWE Classification"
+        }, 
+        {
+            "CWE": "CWE-787", 
+            "desc": "CWE-125 Out-of-bounds read"
+        }
+    ], 
+    "NRFIN_00072": [
+        {
+            "CWE": "CWE-201", 
+            "desc": ""
+        }
+    ], 
+    "NRFIN_00073": [
+        {
+            "CWE": "CWE-822", 
+            "desc": "### CWE Classification"
+        }, 
+        {
+            "CWE": "CWE-121", 
+            "desc": "### CWE Classification"
+        }
+    ], 
+    "NRFIN_00074": [
+        {
+            "CWE": "CWE-122", 
+            "desc": "CWE-131 Incorrect Calculation of Buffer Size"
+        }, 
+        {
+            "CWE": "CWE-788", 
+            "desc": "CWE-125 Out-of-bounds Read"
+        }, 
+        {
+            "CWE": "CWE-121", 
+            "desc": "CWE-131 Incorrect Calculation of Buffer Size"
+        }, 
+        {
+            "CWE": "CWE-788", 
+            "desc": "CWE-787 Out-of-bounds Write"
+        }
+    ], 
+    "NRFIN_00075": [
+        {
+            "CWE": "CWE-822", 
+            "desc": "CWE-502 Deserialization of Untrusted Data"
+        }
+    ], 
+    "NRFIN_00076": [
+        {
+            "CWE": "CWE-822", 
+            "desc": "CWE-468 Incorrect Pointer Scaling"
+        }
+    ], 
+    "NRFIN_00077": [
+        {
+            "CWE": "CWE-209", 
+            "desc": "CWE-200 Information Exposure"
+        }, 
+        {
+            "CWE": "CWE-665", 
+            "desc": "CWE-457 Use of Uninitialized Variable"
+        }
+    ], 
+    "NRFIN_00078": [
+        {
+            "CWE": "CWE-201", 
+            "desc": "Information Exposure Through Sent Data"
+        }, 
+        {
+            "CWE": "CWE-120", 
+            "desc": "Buffer Copy without Checking Size of Input"
+        }, 
+        {
+            "CWE": "CWE-122", 
+            "desc": "Heap-based Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-787", 
+            "desc": "Out-of-bounds Write"
+        }
+    ], 
+    "NRFIN_00079": [
+        {
+            "CWE": "CWE-129", 
+            "desc": "CWE-122 Heap-based Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-788", 
+            "desc": "CWE-193 Off-by-one Error"
+        }, 
+        {
+            "CWE": "CWE-129", 
+            "desc": "CWE-122 Heap-based Buffer Overflow"
+        }, 
+        {
+            "CWE": "CWE-788", 
+            "desc": "CWE-193 Off-by-one Error"
+        }
+    ], 
+    "NRFIN_00080": [
+        {
+            "CWE": "CWE-908", 
+            "desc": "CWE-665 Improper Initialization"
+        }, 
+        {
+            "CWE": "CWE-121", 
+            "desc": "CWE-120 Buffer Copy without Checking Size of Input"
+        }, 
+        {
+            "CWE": "CWE-823", 
+            "desc": "CWE-787 Out-of-bounds Write"
+        }
+    ], 
+    "TNETS_00002": [
+        {
+            "CWE": "CWE-122", 
+            "desc": ""
+        }
+    ], 
+    "YAN01_00001": [
+        {
+            "CWE": "CWE-121", 
+            "desc": "Stack-based Buffer Overflow"
+        }
+    ], 
+    "YAN01_00002": [
+        {
+            "CWE": "CWE-787", 
+            "desc": "Out-of-bounds write"
+        }, 
+        {
+            "CWE": "CWE-682", 
+            "desc": "Incorrect Calculation"
+        }, 
+        {
+            "CWE": "CWE-681", 
+            "desc": "Incorrect Conversion between Numeric Types"
+        }
+    ], 
+    "YAN01_00003": [
+        {
+            "CWE": "CWE-681", 
+            "desc": "Incorrect Conversion between types since the uint32 should have been converted back to an uint8 before committing or memory (or that uint8 add should have been used instead). CWE-189 falls under numeric errors."
+        }
+    ], 
+    "YAN01_00007": [
+        {
+            "CWE": "CWE-824", 
+            "desc": "Access of Uninitialized Pointer"
+        }, 
+        {
+            "CWE": "CWE-476", 
+            "desc": "Null Pointer Derefernece"
+        }
+    ], 
+    "YAN01_00009": [
+        {
+            "CWE": "CWE-134", 
+            "desc": "Uncontrolled Format String"
+        }
+    ], 
+    "YAN01_00010": [
+        {
+            "CWE": "CWE-824", 
+            "desc": "Access of Uninitialized Pointer"
+        }, 
+        {
+            "CWE": "CWE-476", 
+            "desc": "Null Pointer Derefernece"
+        }
+    ], 
+    "YAN01_00011": [
+        {
+            "CWE": "CWE-125", 
+            "desc": "Out of Bounds Read"
+        }
+    ], 
+    "YAN01_00012": [
+        {
+            "CWE": "CWE-122", 
+            "desc": "Heap-based Buffer Overflow"
+        }
+    ], 
+    "YAN01_00015": [
+        {
+            "CWE": "CWE-121", 
+            "desc": "Stack-based Buffer Overflow) which results in a type 1 POV. This is straight forward."
+        }, 
+        {
+            "CWE": "CWE-291", 
+            "desc": "Information Exposure Through Sent Data). In particular, there is a part of the game where Bob is instructed to read the color of some lights that are within the room. As it turns out, these lights correspond to the bit value of memory - that is Green is 1, White is 0 and Black is un-allocated or invalid address."
+        }
+    ], 
+    "YAN01_00016": [
+        {
+            "CWE": "CWE-121", 
+            "desc": "Stack-baed Buffer Overflow) which results in a type 1 POV. The overflow results when too long of a command string is passed into the program."
+        }, 
+        {
+            "CWE": "CWE-202", 
+            "desc": "Exposure of Sensitive Data Through Data Queries). Since a real TPM should have access to all of memory, this inadvertent disclosure isn't much of a problem (that plus cryptographic hash functions are one-way), however since we are using XOR as the hash, we can recover the original value. In the case of the MAGIC page with the secret data for a Type 2 POV, the pages around it don't exist and therefore should be 0. and since 0 XOR X is always X, this means we can just read the value straight out from the output of Extend followed by a Print"
+        }
+    ], 
+    "service-template": []
+}
